@@ -41,7 +41,7 @@ To run this project, you need to have the following libraries installed:
 ## Usage
 ### Clone Repository
 ```
-git clone git@github.com:ting0602/VC_HW2_2D-DCT.git
+git clone https://github.com/ting0602/VC_HW2_2D-DCT.git
 ```
 
 ### Run the Code
